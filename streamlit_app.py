@@ -1,4 +1,4 @@
 
 import streamlit    
 
-streamlit.title("My first streamlit app title. Hurrayy!!!") 
+streamlit.title("My Parent's New Healthy Diner") 
